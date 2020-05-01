@@ -1,0 +1,17 @@
+.transfer{
+    padding-top: 30px;
+    margin-top: 20px;
+}
+h4{
+    padding-bottom: 10px;
+}
+.transfer form{
+    padding:20px;
+}
+.moneyTransfer h4{
+    background-color: greenyellow;
+    color: rgb(231, 145, 40);
+    font-weight: bolder;
+    padding: 30px;
+    padding-left: 150px;
+}
